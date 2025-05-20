@@ -1,0 +1,224 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    vertical-align: middle;
+}
+
+.butt {
+    border-radius: 100%;
+    width: 25vmax;
+    height: 25vmax;
+    border: 6px, rgb(255, 255, 255), solid;
+    background-image: url(images.jpg);
+    background-size: 100% 100%;
+    color: rgb(255, 255, 255);
+    text-shadow:
+        4px 4px 10px rgb(0, 0, 0),
+        0 0 1em rgb(0, 0, 0),
+        0 0 0.2em rgb(0, 0, 0);
+    font-size: 600%;
+    margin-top: 150px;
+
+}
+
+.butt:hover {
+    border-radius: 100%;
+    width: 25vmax;
+    height: 25vmax;
+    border: 8px, rgb(255, 255, 255), solid;
+    background-image: url(images.jpg);
+    color: rgb(255, 255, 255);
+    font-size: 600%;
+    margin-top: 150px;
+}
+
+.butt:active {
+    border-radius: 100%;
+    width: 25vmax;
+    height: 25vmax;
+    border: 6px, rgb(255, 255, 255), solid;
+    background-image: url(images.jpg);
+    color: rgb(255, 255, 255);
+    font-size: 600%;
+    margin-top: 150px;
+}
+
+
+
+.body-gogo {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.zaror {
+   
+    font-size: 300%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    text-shadow:
+        1px 1px 10px rgb(0, 0, 0),
+        0 0 1em rgb(3, 100, 3),
+        0 0 0.2em green;
+
+}
+
+.knmopp {
+    border-radius: 10%;
+    width: 7vmax;
+    height: 4vmax;
+    border: 4px, rgb(255, 255, 255), solid;
+    background-color: rgb(69, 241, 120);
+    color: rgb(255, 255, 255);
+    font-size: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    text-shadow:
+        1px 1px 2px black,
+        0 0 1em rgb(255, 255, 255),
+        0 0 0.2em rgb(255, 255, 255);
+}
+
+.knmopp:hover {
+    border-radius: 10%;
+    width: 7vmax;
+    height: 4vmax;
+    border: 5px, rgb(255, 255, 255), solid;
+    background-color: rgb(24, 56, 33);
+    color: rgb(255, 255, 255);
+    font-size: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.knmopp-Back {
+    border-radius: 10%;
+    width: 8vmax;
+    height: 4vmax;
+    border: 4px, rgb(255, 255, 255), solid;
+    background-color: rgb(27, 167, 172);
+    color: rgb(255, 255, 255);
+    font-size: 150%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    margin-right: 750px;
+    margin: 5px;
+    text-shadow:
+        1px 1px 2px black,
+        0 0 1em rgb(255, 255, 255),
+        0 0 0.2em rgb(255, 255, 255);
+
+}
+
+.zarore {
+    font-size: 300%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    text-shadow:
+        10px 10px 20px rgb(0, 0, 0),
+        0 0 1em rgb(0, 0, 0),
+        0 0 0.2em rgb(255, 255, 255);
+
+}
+
+.knmopp_shop {
+    border-radius: 10%;
+    width: 28vmax;
+    height: 12vmax;
+    border: 4px, rgb(0, 0, 0), solid;
+    background-color: rgb(16, 147, 156);
+    color: rgb(255, 255, 255);
+    font-size: 250%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+     margin-left:50px;
+    text-shadow:
+        1px 1px 2px black,
+        0 0 1em rgb(255, 255, 255),
+        0 0 0.2em rgb(255, 255, 255);
+
+}
+
+.knmopp_shop:hover {
+    border-radius: 10%;
+    width: 28vmax;
+    height: 12vmax;
+    border: 4px, rgb(107, 167, 107), solid;
+    background-color: rgb(255, 255, 255);
+    color: rgb(21, 65, 94);
+    font-size: 250%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+
+}
+
+.knmopp-Back:hover {
+    border-radius: 10%;
+
+    border: 4px, rgb(12, 143, 175), solid;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 247, 255);
+
+    border-radius: 10%;
+    width: 8vmax;
+    height: 4vmax;
+
+
+    font-size: 150%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    margin-right: 750px;
+    margin: 5px;
+}
+
+.knmopp_skin {
+
+
+
+     border-radius: 10%;
+    width: 28vmax;
+    height: 15vmax;
+    border: 4px, rgb(0, 0, 0), solid;
+   background-image:url(image.png) ;
+    background-size: 100% 100%;
+    color: rgb(255, 255, 255);
+    font-size: 250%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    margin-left:50px;
+  margin-top:30px;
+    bottom:100px;
+     text-shadow:
+        1px 1px 2px black,
+        0 0 1em rgb(255, 255, 255),
+        0 0 0.2em rgb(255, 255, 255);
+}
+
+.knmopp_skin:hover {
+     border-radius: 10%;
+    width: 28vmax;
+    height: 15vmax;
+    border: 4px, rgb(0, 0, 0), solid;
+   background-image:url(image.png) ;
+    background-size: 100% 100%;
+    color: rgb(41, 213, 219);
+    font-size: 250%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    margin-left:50px;
+  margin-top:30px;
+    bottom:100px;
+     text-shadow:
+        1px 1px 2px black,
+        0 0 1em  rgb(41, 213, 219),
+        0 0 0.2em rgb(255, 255, 255);
+}
+
+.style_body{
+    background-image:url(завантаження.jpg);
+    background-size: 150% 150% ;
+}
+.body-gogo{
+    background-image:url(htmlfon.jpg);
+    background-size: 140% 140% ;
+}
